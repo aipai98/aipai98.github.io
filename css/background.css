@@ -1,0 +1,9 @@
+#web_bg {
+    /* 背景图像的地址（url括号里）  */
+    background: url(https://upload-bbs.miyoushe.com/upload/2020/12/07/73565430/4c4f42f23a5c4ff03195978a6e1c531e_2613020198121446442.png?x-oss-process=image/auto-orient,0/interlace,1/format,png);
+    /* 背景图像不重复 */
+    background-repeat: no-repeat;
+    /* 背景图像大小 */
+    background-size: cover;
+  }
+  
